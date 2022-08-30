@@ -89,23 +89,6 @@ button.sedan-button {
 button.sedan-button:hover {
     color: var(--transparent-white);
     outline: 2px solid var(--transparent-white);
-    border-radius: 2rem;
-    outline-offset: -2px;
-    background-color: var(--bright-orange);
-}
-
-button.sedan-button:focus {
-    color: var(--transparent-white);
-    outline: 2px solid var(--transparent-white);
-    border-radius: 2rem;
-    outline-offset: -2px;
-    background-color: var(--bright-orange);
-}
-
-button.sedan-button:active {
-    color: var(--transparent-white);
-    outline: 2px solid var(--transparent-white);
-    border-radius: 2rem;
     outline-offset: -2px;
     background-color: var(--bright-orange);
 }
