@@ -94,6 +94,22 @@ button.sedan-button:hover {
     background-color: var(--bright-orange);
 }
 
+button.sedan-button:focus {
+    color: var(--transparent-white);
+    outline: 2px solid var(--transparent-white);
+    border-radius: 2rem;
+    outline-offset: -2px;
+    background-color: var(--bright-orange);
+}
+
+button.sedan-button:active {
+    color: var(--transparent-white);
+    outline: 2px solid var(--transparent-white);
+    border-radius: 2rem;
+    outline-offset: -2px;
+    background-color: var(--bright-orange);
+}
+
 button.suv-button {
     color: var(--dark-cyan);
 }
@@ -101,6 +117,7 @@ button.suv-button {
 button.suv-button:hover {
     color: var(--transparent-white);
     outline: 2px solid var(--transparent-white);
+    border-radius: 2rem;
     outline-offset: -2px;
     background-color: var(--dark-cyan);
 }
@@ -112,6 +129,7 @@ button.luxury-button {
 button.luxury-button:hover {
     color: var(--transparent-white);
     outline: 2px solid var(--transparent-white);
+    border-radius: 2rem;
     outline-offset: -2px;
     background-color: var(--very-dark-cyan);
 }
