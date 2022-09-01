@@ -89,8 +89,6 @@ button.sedan-button {
 button.sedan-button:hover {
     color: var(--transparent-white);
     border: 2px solid var(--transparent-white);
-    /* outline-offset: -2px; */
-    /* background-color: var(--bright-orange); */
     background-color: transparent;
 }
 
@@ -102,8 +100,7 @@ button.suv-button:hover {
     color: var(--transparent-white);
     border: 2px solid var(--transparent-white);
     border-radius: 2rem;
-    /* outline-offset: -2px; */
-    background-color: var(--dark-cyan);
+    background-color: transparent;
 }
 
 button.luxury-button {
@@ -114,8 +111,7 @@ button.luxury-button:hover {
     color: var(--transparent-white);
     border: 2px solid var(--transparent-white);
     border-radius: 2rem;
-    /* outline-offset: -2px; */
-    background-color: var(--very-dark-cyan);
+    background-color: transparent;
 }
 
 .button-flex-container {
