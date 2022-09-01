@@ -90,7 +90,8 @@ button.sedan-button:hover {
     color: var(--transparent-white);
     border: 2px solid var(--transparent-white);
     /* outline-offset: -2px; */
-    background-color: var(--bright-orange);
+    /* background-color: var(--bright-orange); */
+    background-color: transparent;
 }
 
 button.suv-button {
